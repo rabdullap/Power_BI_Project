@@ -1,4 +1,5 @@
-GLOBAL SUPER STORE INTERACTIVE SALES REPORT
+## GLOBAL SUPER STORE INTERACTIVE SALES REPORT
+
 Overview
 Welcome to the Global Super Strore Sales Report project! This repository contains everything you need to explore a comprehensive interactive sales report built in Power BI. This report provides valuable insights into the sales performance of a store with branches all over the world, focusing on data cleaning, segmentation, analysis, and visualization.
 
